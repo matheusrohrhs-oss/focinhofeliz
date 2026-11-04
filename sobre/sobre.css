@@ -1,0 +1,14 @@
+body
+{
+    color:	#17da13;
+    font-family: "Lucida Sans Unicode",	"Lucida	Grande", sans-serif;
+    background-color: white;
+    border-color: black;
+    border-style: dotted;
+    border-width: 5px
+}
+h1
+{
+    font-family: Times New Roman;
+    background-image: url(img/FocinhoFeliz/sobre/img/centro-distribuicao.jpeg);
+}
